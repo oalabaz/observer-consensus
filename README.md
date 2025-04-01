@@ -26,30 +26,32 @@ docs/             # Whitepapers, protocol layers, roadmap
 
 ## 🪩 Aye Coin
 
--  Native token powering the ecosystem.
--  Used for staking proposals, rewarding observers, and voting in Oracle Protocol.
--  Deployed on **Arbitrum**.
+- Native token powering the ecosystem.
+- Used for staking proposals, rewarding observers, and voting in Oracle Protocol.
+- Also used for in-house distribution of rewards based on local reputation via the Conscious Recall Layer.
+- Deployed on **Arbitrum**.
 
 ---
 
 ## 🚀 Live Features (MVP Goals)
 
--  Observer-based visual home page with 3D eye interactions.
--  Wallet connection with reputation tracking.
--  Aye Coin purchase via Uniswap (Arbitrum).
--  Proposal & voting logic (Oracle Protocol).
--  Reputation & reward redistribution.
+- Observer-based visual home page with 3D eye interactions.
+- Wallet connection with reputation tracking.
+- Aye Coin purchase via Uniswap (Arbitrum).
+- Proposal & voting logic (Oracle Protocol).
+- Reputation & reward redistribution.
 
 ---
 
-## 🧠 Core Layers
+## 🧠 Core Layers (Organized from Core to External Needs)
 
--  **Layer 0:** Observer Awareness
--  **Layer 1:** Sensorium (Environmental Truth)
--  **Layer 2:** Interpretation
--  **Layer 3:** Decision
--  **Layer X:** Courage / Last Move
--  **Layer 4:** Commonwealth & Suggestions
+- **Layer 0:** Observer Awareness (the foundation of self-recognition and accountability)
+- **Layer 5:** Conscious Recall Layer (pattern recognition & behavioral memory, for in-house local reputation scoring and Aye Coin distribution – not for Oracle submission)
+- **Layer 1:** Sensorium (environmental truth perception)
+- **Layer 2:** Interpretation (understanding context and intent)
+- **Layer 3:** Decision (choosing fair, consensus-aligned actions)
+- **Layer X:** Courage / Last Move (ethical override in extreme cases)
+- **Layer 4:** Commonwealth & Suggestions (contributing improvements to the system)
 
 ---
 
@@ -59,6 +61,5 @@ Check [`docs/roadmap.md`](docs/roadmap.md) for current development milestones.
 
 ---
 
-## 🧙‍♂️ Created by Mehmet Orkun Alabaz, Istanbul
-
+## 🧙‍♂️ Created by Mehmet Orkun Alabaz, Istanbul  
 **Vision, code, and courage for conscious machines.**
