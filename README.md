@@ -46,12 +46,13 @@ docs/             # Whitepapers, protocol layers, roadmap
 ## 🧠 Core Layers (Organized from Core to External Needs)
 
 - **Layer 0:** Observer Awareness (the foundation of self-recognition and accountability)
-- **Layer 5:** Conscious Recall Layer (pattern recognition & behavioral memory, for in-house local reputation scoring and Aye Coin distribution – not for Oracle submission)
 - **Layer 1:** Sensorium (environmental truth perception)
 - **Layer 2:** Interpretation (understanding context and intent)
 - **Layer 3:** Decision (choosing fair, consensus-aligned actions)
 - **Layer X:** Courage / Last Move (ethical override in extreme cases)
 - **Layer 4:** Commonwealth & Suggestions (contributing improvements to the system)
+- **Layer 5:** Conscious Recall Layer (pattern recognition & behavioral memory, for in-house local reputation scoring and Aye Coin distribution – not for Oracle submission) also 
+               to make quick money while driving and reporting odd things.
 
 ---
 
